@@ -1,0 +1,49 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+AI-VİDEO/.env
+AI-VİDEO/youtube_token.json
+rfid_mobil/android/app/google-services.json
+web sitesi/kapadokya/serviceAccountKey.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+dist/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Generated media and local runtime artifacts
+AI-VİDEO/uploads/
+AI-VİDEO/outputs/
+AI-VİDEO/test_output/
+AI-VİDEO/voiceover.mp3
+
+# Flutter / Android generated files
+rfid_mobil/.dart_tool/
+rfid_mobil/build/
+rfid_mobil/android/build/
+rfid_mobil/android/app/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
