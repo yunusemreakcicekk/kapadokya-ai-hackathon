@@ -1,4 +1,4 @@
-# Hackhathon1
+# Hackhathon
 
 Bu depo; Kapadokya web uygulaması, RFID mobil uygulaması ve AI video üretim backend/frontend parçalarını içerir.
 
